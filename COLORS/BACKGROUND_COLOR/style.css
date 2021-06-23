@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    width:100vw;
+    height:33.33vh;
+    margin:0;
+    padding:0;
+    text-align: center;
+    line-height: 33.33vh;
+}
+body {
+    /* rgb value */
+    background-color:rgb(200,200,200);
+}
+h1 {
+    /* name */
+    background-color:darkcyan;
+    /* padding:16.00vh 0 0 0; */
+}
+h2 {
+    /* HEX VALUE */
+    background: color #ee3e80;
+    /* padding:16.00vh 0 0 0; */
+
+}   
+p {
+    /* name */
+    background-color:white;
+    /* padding:16.00vh 0 0 0; */
+}
