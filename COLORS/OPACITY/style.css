@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    height:33.33vh;
+}
+
+/* comment this  */
+.one {
+    background-color: rgb(0,0,0);
+    opacity: 0.5;
+}
+
+/* uncomment this  */
+/* .one {
+    background-color: rgb(0,0,0);
+    opacity: 0.5;
+} */
+
+.two {
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.5);
+}

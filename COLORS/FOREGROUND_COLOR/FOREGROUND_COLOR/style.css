@@ -1,0 +1,12 @@
+/* color name */
+h1 {
+    color: rgb(0, 255, 255);}
+    /* hex code */
+    h2 {
+    color: #ee3e80;}
+    /* rgb value */
+    p {
+    color: rgb(255, 255, 28);}
+    body{
+        background-color: black;
+    }

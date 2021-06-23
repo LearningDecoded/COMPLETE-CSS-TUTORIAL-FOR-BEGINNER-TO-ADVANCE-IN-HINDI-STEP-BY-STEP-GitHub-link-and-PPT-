@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 33.33vh;
+}
+h1,h2,p{
+    padding:5vh 15vh;
+    background-color: lightpink;
+}
+h2{
+    background-color: yellow;
+}
+
+body {
+    background-color:
+    #C8C8C8;
+    background-color:
+    hsl(0,0%,78%);
+}
+p {
+    background-color:#ffffff;
+    background-color:hsla(0,100%,100%,0.5);
+}

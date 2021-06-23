@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+    height: 33.33vh;
+    text-align: center;
+    line-height: 30vh;
+}
+body{
+    background-color:white;
+    color:whitesmoke;
+}
+h1{
+    /* high contrast */
+    background-color: black;
+    color:white;    
+}
+h2{
+    /* low contrast */
+    background-color: pink;
+    color:white;
+}
+h3{
+    /* zero contrast*/
+    background-color: white;
+    color: white;
+}
